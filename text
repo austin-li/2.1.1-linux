@@ -5,8 +5,8 @@ wget https://s7d1.scene7.com/is/image/PETCO/category-dog-072618-image-225w-150h?
 wget https://previews.123rf.com/images/piksel/piksel1506/piksel150600089/41508771-happy-family-outdoors.jpg
 cd Wallpapers
 wget https://i.imgur.com/RPnqMdr.jpg
-cd..
-cd..
+cd ..
+cd ..
 mkdir Documents
 cd Documents
 mkdir Code
